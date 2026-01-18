@@ -1,0 +1,474 @@
+[
+  {
+    "title": "Einführungsveranstaltung (5010)",
+    "start": "2026-01-09T15:00:00+01:00",
+    "end": "2026-01-09T18:15:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "M. Sc. Psych. Lena Kümpel Dipl.-Psych. Anne Kriebel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36956"
+  },
+  {
+    "title": "Entspannungsverfahren (3130)",
+    "start": "2026-01-11T10:00:00+01:00",
+    "end": "2026-01-11T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Kevin Klesen",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36960"
+  },
+  {
+    "title": "Allgemeine und spezielle psychiatrische Krankheitslehre (Teil 1) (3051)",
+    "start": "2026-01-17T10:00:00+01:00",
+    "end": "2026-01-17T13:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Annegret Drangmeister",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36957"
+  },
+  {
+    "title": "Allgemeine und spezielle psychiatrische Krankheitslehre (Teil 2) (3052)",
+    "start": "2026-01-17T14:00:00+01:00",
+    "end": "2026-01-17T17:30:00+01:00",
+    "location": "2. OG Hauptstr. 309 51143 Köln",
+    "trainer": "Annegret Drangmeister",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36959"
+  },
+  {
+    "title": "Psychopathologischer Befund (3061)",
+    "start": "2026-01-23T15:00:00+01:00",
+    "end": "2026-01-23T20:00:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dr. med. Daniela Konkol",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36961"
+  },
+  {
+    "title": "Einführung in die Verhaltenstherapie (Teil 1) (5080)",
+    "start": "2026-01-24T10:00:00+01:00",
+    "end": "2026-01-24T17:30:00+01:00",
+    "location": "Nord Hauptstr. 293-299 51143 Köln",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36962"
+  },
+  {
+    "title": "Einführung in die Verhaltenstherapie (Teil 2) (5070)",
+    "start": "2026-01-25T10:00:00+01:00",
+    "end": "2026-01-25T15:30:00+01:00",
+    "location": "Nord Hauptstr. 293-299 51143 Köln",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36963"
+  },
+  {
+    "title": "Psychopharmakologie (3062)",
+    "start": "2026-02-06T15:00:00+01:00",
+    "end": "2026-02-06T20:00:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. med. Daniela Konkol",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36964"
+  },
+  {
+    "title": "Übungen zu psychotherapeutischen Gesprächstechniken (1140)",
+    "start": "2026-02-07T10:00:00+01:00",
+    "end": "2026-02-07T17:30:00+01:00",
+    "location": "Nord Hauptstr. 293-299 51143 Köln",
+    "trainer": "Dipl.-Psych. Marco Winter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36965"
+  },
+  {
+    "title": "Behandlung von panischen und phobischen Ängsten, Teil 1 (1291)",
+    "start": "2026-03-02T10:00:00+01:00",
+    "end": "2026-03-02T15:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "M. Sc. Psych. Lena Kümpel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36966"
+  },
+  {
+    "title": "Behandlung von panischen und phobischen Ängsten, Teil 2 (1290)",
+    "start": "2026-03-03T10:00:00+01:00",
+    "end": "2026-03-03T15:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "M. Sc. Psych. Lena Kümpel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36977"
+  },
+  {
+    "title": "Gruppentherapie W (1180)",
+    "start": "2026-03-04T10:00:00+01:00",
+    "end": "2026-03-04T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Christoph Wörsdörfer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36978"
+  },
+  {
+    "title": "Klassifikation seelischer Störungen nach ICD-10 und ICD-11 (3370)",
+    "start": "2026-03-06T15:00:00+01:00",
+    "end": "2026-03-06T18:15:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dr. med. Stefan Nagel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36979"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE2-VT)",
+    "start": "2026-03-14T10:00:00+01:00",
+    "end": "2026-03-14T17:30:00+01:00",
+    "location": "Raum 9 Hauptstr. 305 51143 Köln",
+    "trainer": "Mira Welter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36983"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE1-VT)",
+    "start": "2026-03-14T10:00:00+01:00",
+    "end": "2026-03-14T17:30:00+01:00",
+    "location": "Raum 5 Hauptstr. 305 51143 Köln",
+    "trainer": "Dipl.-Psych. Christoph Wörsdörfer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36981"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE1-VT)",
+    "start": "2026-03-15T10:00:00+01:00",
+    "end": "2026-03-15T16:30:00+01:00",
+    "location": "Raum 5 Hauptstr. 305 51143 Köln",
+    "trainer": "Dipl.-Psych. Christoph Wörsdörfer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36982"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE2-VT)",
+    "start": "2026-03-15T10:00:00+01:00",
+    "end": "2026-03-15T16:30:00+01:00",
+    "location": "Ost Hauptstr. 293-299 51143 Köln",
+    "trainer": "Mira Welter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36984"
+  },
+  {
+    "title": "Übungen zu psychotherapeutischen Gesprächstechniken (1140)",
+    "start": "2026-03-21T10:00:00+01:00",
+    "end": "2026-03-21T17:30:00+01:00",
+    "location": "Raum 9 Hauptstr. 305 51143 Köln",
+    "trainer": "Dipl.-Psych. Marco Winter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36980"
+  },
+  {
+    "title": "Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 1) (1021)",
+    "start": "2026-04-17T15:00:00+02:00",
+    "end": "2026-04-17T18:15:00+02:00",
+    "location": "Fischerweg Hauptstr. 321 51143 Köln",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36985"
+  },
+  {
+    "title": "Affektive Störungen, Behandlung von Depressiven Erkrankungen (1770)",
+    "start": "2026-04-18T10:00:00+02:00",
+    "end": "2026-04-18T17:30:00+02:00",
+    "location": "Mittendrin - Raum 1 Friedrich-Ebert-Platz 3 51143 Köln",
+    "trainer": "Dipl.-Psych. Claudia Hesse",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36986"
+  },
+  {
+    "title": "Verhaltenstherapie 1 (Teil 1) (6220)",
+    "start": "2026-05-30T10:00:00+02:00",
+    "end": "2026-05-30T17:30:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36987"
+  },
+  {
+    "title": "Verhaltenstherapie 1 (Teil 2) (6230) e",
+    "start": "2026-05-31T10:00:00+02:00",
+    "end": "2026-05-31T17:30:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36988"
+  },
+  {
+    "title": "Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 2) (1022)",
+    "start": "2026-06-19T15:00:00+02:00",
+    "end": "2026-06-19T18:15:00+02:00",
+    "location": "Fischerweg Hauptstr. 321 51143 Köln",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36989"
+  },
+  {
+    "title": "Ressourcenorientiertes Arbeiten in der VT (1270)",
+    "start": "2026-06-20T10:00:00+02:00",
+    "end": "2026-06-20T17:30:00+02:00",
+    "location": "2. OG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Ellen Bahr",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36990"
+  },
+  {
+    "title": "Gruppentherapie H (3170)",
+    "start": "2026-06-21T10:00:00+02:00",
+    "end": "2026-06-21T17:30:00+02:00",
+    "location": "Curanum Dülkenstr.18 51143 Köln",
+    "trainer": "Dr. med. Norbert Hartkamp",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36991"
+  },
+  {
+    "title": "Soziales Kompetenztraining im Erwachsenenalter (6260)",
+    "start": "2026-07-12T10:00:00+02:00",
+    "end": "2026-07-12T17:30:00+02:00",
+    "location": "Gemeindehaus Mühlenstraße 4 51143 Köln",
+    "trainer": "Dipl.-Psych. Bettina Tietz-Roder",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36992"
+  },
+  {
+    "title": "Psychotherapeutische Diagnostik: Testdiagnostik - Hintergründe, Übung und Interpretation (1190)",
+    "start": "2026-09-06T10:00:00+02:00",
+    "end": "2026-09-06T17:30:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. phil. Steffen Wolfsgruber",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36993"
+  },
+  {
+    "title": "Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 3) (1023)",
+    "start": "2026-09-18T15:00:00+02:00",
+    "end": "2026-09-18T18:15:00+02:00",
+    "location": "Fischerweg Hauptstr. 321 51143 Köln",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36994"
+  },
+  {
+    "title": "Kognitive VT (Teil 1) (1240)",
+    "start": "2026-09-19T10:00:00+02:00",
+    "end": "2026-09-19T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36995"
+  },
+  {
+    "title": "Kognitive VT (Teil 2) (1250)",
+    "start": "2026-09-20T10:00:00+02:00",
+    "end": "2026-09-20T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36996"
+  },
+  {
+    "title": "Psychosomatik: Allgemeine Krankheitslehre und ausgewählte Krankheitsbilder (3110)",
+    "start": "2026-11-08T10:00:00+01:00",
+    "end": "2026-11-08T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Astrid Helesic",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36997"
+  },
+  {
+    "title": "Komplementäre Beziehungsgestaltung in der VT (1470)",
+    "start": "2026-11-21T10:00:00+01:00",
+    "end": "2026-11-21T17:30:00+01:00",
+    "location": "2. OG Hauptstr. 309 51143 Köln",
+    "trainer": "Dr. Ronald Schneider",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36998"
+  },
+  {
+    "title": "Psychotherapeutische Beziehung: Therapiemotivation und Compliance (1350)",
+    "start": "2026-11-22T10:00:00+01:00",
+    "end": "2026-11-22T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dr. Ronald Schneider",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36999"
+  },
+  {
+    "title": "Einführung in die Tiefenpsychologisch fundierte Psychotherapie und Neurosenlehre (Teil 1) (5100)",
+    "start": "2026-12-05T10:00:00+01:00",
+    "end": "2026-12-05T17:30:00+01:00",
+    "location": "Curanum Dülkenstr.18 51143 Köln",
+    "trainer": "Johannes Hense",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37000"
+  },
+  {
+    "title": "Einführung in die Tiefenpsychologisch fundierte Psychotherapie und Neurosenlehre (Teil 2) (5090)",
+    "start": "2026-12-06T10:00:00+01:00",
+    "end": "2026-12-06T15:30:00+01:00",
+    "location": "Curanum Dülkenstr.18 51143 Köln",
+    "trainer": "Johannes Hense",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37001"
+  },
+  {
+    "title": "Achtsamkeit (1550)",
+    "start": "2026-12-12T10:00:00+01:00",
+    "end": "2026-12-12T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dr. Dr. Daniel Wagner",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37002"
+  },
+  {
+    "title": "Behandlung von Essstörungen (1390)",
+    "start": "2026-12-20T10:00:00+01:00",
+    "end": "2026-12-20T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37003"
+  },
+  {
+    "title": "Behandlung von Schlafstörungen (1410)",
+    "start": "2027-01-15T15:00:00+01:00",
+    "end": "2027-01-15T20:00:00+01:00",
+    "location": "",
+    "trainer": "Dr. Michael Schreiber",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37732"
+  },
+  {
+    "title": "Kognitive Behandlung der Schizophrenie (1280)",
+    "start": "2027-01-17T10:00:00+01:00",
+    "end": "2027-01-17T17:30:00+01:00",
+    "location": "",
+    "trainer": "Prof. Reinhard Maß",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37736"
+  },
+  {
+    "title": "Einführung in die Ambulanztätigkeit (5420)",
+    "start": "2027-01-29T15:00:00+01:00",
+    "end": "2027-01-29T20:00:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "M. Sc. Psych. Lena Kümpel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37775"
+  },
+  {
+    "title": "Behandlung von Abhängigkeitsstörungen (1460)",
+    "start": "2027-01-30T10:00:00+01:00",
+    "end": "2027-01-30T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Professor Dr. Diana Moesgen",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37898"
+  },
+  {
+    "title": "Anamneseseminar 1 (0111)",
+    "start": "2027-03-19T15:00:00+01:00",
+    "end": "2027-03-19T18:15:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Dipl.-Psych. Kim Daniel Teufel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37883"
+  },
+  {
+    "title": "Behandlung von sexuellen Funktionsstörungen (1430)",
+    "start": "2027-03-21T10:00:00+01:00",
+    "end": "2027-03-21T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Renate Bauer Prof. Reinhard Maß",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37884"
+  },
+  {
+    "title": "Psychotherapeutische Beziehungsgestaltung (5150)",
+    "start": "2027-06-04T15:00:00+02:00",
+    "end": "2027-06-04T18:15:00+02:00",
+    "location": "",
+    "trainer": "M. Sc. Psych. Laura Koch",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37562"
+  },
+  {
+    "title": "Klärungsorientierte Psychotherapie 1: Differentielle Grundlagen und Explikation von Schemata (1610)",
+    "start": "2027-06-05T10:00:00+02:00",
+    "end": "2027-06-05T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Ronald Schneider",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37581"
+  },
+  {
+    "title": "Berufsrecht (3600)",
+    "start": "2027-06-12T10:00:00+02:00",
+    "end": "2027-06-12T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Prof. Thomas Ufer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37559"
+  },
+  {
+    "title": "Verhaltenstherapie mit Kindern, Jugendlichen und ihren Eltern: Grundlagen (3510)",
+    "start": "2027-07-02T15:00:00+02:00",
+    "end": "2027-07-02T20:00:00+02:00",
+    "location": "",
+    "trainer": "Julia Brunet",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37713"
+  },
+  {
+    "title": "Verhaltenstherapie mit Kindern, Jugendlichen und ihren Eltern: Vertiefung (1540)",
+    "start": "2027-07-03T10:00:00+02:00",
+    "end": "2027-07-03T17:30:00+02:00",
+    "location": "",
+    "trainer": "Julia Brunet",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37715"
+  },
+  {
+    "title": "Psychotherapieforschung (3672)",
+    "start": "2027-09-25T10:00:00+02:00",
+    "end": "2027-09-25T17:30:00+02:00",
+    "location": "Hauptstr. 309 51143 Köln",
+    "trainer": "Prof. Ralf Pukrop",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37471"
+  },
+  {
+    "title": "Psychotherapieforschung (3672)",
+    "start": "2027-09-26T10:00:00+02:00",
+    "end": "2027-09-26T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Prof. Ralf Pukrop",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37475"
+  },
+  {
+    "title": "Herausforderungen im Rahmen der Praktischen Ausbildung (0232)",
+    "start": "2027-10-15T15:00:00+02:00",
+    "end": "2027-10-15T18:15:00+02:00",
+    "location": "",
+    "trainer": "Annika Schürhoff",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37512"
+  },
+  {
+    "title": "Bindungstheorie in der Verhaltenstherapie (1674)",
+    "start": "2027-10-17T10:00:00+02:00",
+    "end": "2027-10-17T15:30:00+02:00",
+    "location": "",
+    "trainer": "Yvonne Torka-Seehaus",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37514"
+  },
+  {
+    "title": "Fallseminar: Macht und Ohnmacht (0211)",
+    "start": "2027-11-19T15:00:00+01:00",
+    "end": "2027-11-19T18:15:00+01:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37659"
+  },
+  {
+    "title": "Borderline-Persönlichkeitsstörungen (1710)",
+    "start": "2027-11-20T10:00:00+01:00",
+    "end": "2027-11-20T17:30:00+01:00",
+    "location": "",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37660"
+  },
+  {
+    "title": "Behandlung von Borderline-Persönlichkeitsstörungen: DBT Skillstraining - Übungsseminar (1720)",
+    "start": "2027-11-21T10:00:00+01:00",
+    "end": "2027-11-21T17:30:00+01:00",
+    "location": "",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37661"
+  },
+  {
+    "title": "Behandlung von Zwangserkrankungen (1400)",
+    "start": "2027-12-06T10:00:00+01:00",
+    "end": "2027-12-06T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Dipl.-Psych. Kim Daniel Teufel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37633"
+  },
+  {
+    "title": "Erlebnisaktivierende Techniken in der VT (1700)",
+    "start": "2027-12-07T10:00:00+01:00",
+    "end": "2027-12-07T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Christoph Wörsdörfer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37632"
+  },
+  {
+    "title": "Klärungsorientierte Psychotherapie 2: Modifikation dysfunktionaler Schemata (EPR) (1620)",
+    "start": "2027-12-08T10:00:00+01:00",
+    "end": "2027-12-08T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Marco Winter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37631"
+  },
+  {
+    "title": "Klärungsorientierte Psychotherapie 3: Modifikation dysfunktionaler Schemata (EPR) (1630)",
+    "start": "2027-12-09T10:00:00+01:00",
+    "end": "2027-12-09T17:30:00+01:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Marco Winter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37630"
+  }
+]
