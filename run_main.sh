@@ -14,7 +14,7 @@ git add calendar.ics
 #git add run.log
 git commit -m "Update calendar $(date '+%Y-%m-%d %H:%M')"  >> "$LOGFILE" 2>&1
 
-git add run.loc
+git add run.log
 git commit -m "Update runlog $(date '+%Y-%m-%d %H:%M')" 
 
 git push origin main
