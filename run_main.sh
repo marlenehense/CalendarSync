@@ -2,7 +2,7 @@
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 
-LOGFILE="/Users/marlene/CalenderSync/run.log"
+LOGFILE="/Users/marlene/CalendarSync/run.log"
 
 
 echo "----- Job started at $(date)" >> "$LOGFILE"
