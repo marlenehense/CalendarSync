@@ -35,3 +35,40 @@ Changes not staged for commit:
 	modified:   run.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[main 7e078c4] Update runlog 2026-01-18 20:14
+ Committer: Marlene Hense <marlene@MBP-von-Marlene.fritz.box>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 14 insertions(+)
+github push completed at Sun Jan 18 20:14:07 CET 2026
+----- Job started at Sun Jan 18 21:14:11 CET 2026
+py-script run completed at Sun Jan 18 21:14:20 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   main.py
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V1.ics
+	termine_26V1.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
