@@ -7,7 +7,7 @@ LOGFILE="/Users/marlene/CalendarSync/run.log"
 
 echo "----- Job started at $(date)" >> "$LOGFILE"
 cd /Users/marlene/CalendarSync  || exit
-/Users/marlene/CalendarSync/.venv/bin/python main.py
+/Users/marlene/CalendarSync/.venv/bin/python main.py --view 26V1
 echo "py-script run completed at $(date)" >> "$LOGFILE"
 
 git add calendar.ics
