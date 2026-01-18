@@ -11,7 +11,11 @@ cd /Users/marlene/CalendarSync  || exit
 echo "py-script run completed at $(date)" >> "$LOGFILE"
 
 git add calendar.ics
-git add run.log
+#git add run.log
 git commit -m "Update calendar $(date '+%Y-%m-%d %H:%M')"  >> "$LOGFILE" 2>&1
+
+git add run.loc
+git commit -m "Update runlog $(date '+%Y-%m-%d %H:%M')" 
+
 git push origin main
 echo "github push completed at $(date)" >> "$LOGFILE"
