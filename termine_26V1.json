@@ -120,20 +120,20 @@
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36983"
   },
   {
-    "title": "Gruppenselbsterfahrung (SE2-VT)",
-    "start": "2026-03-15T10:00:00+01:00",
-    "end": "2026-03-15T16:30:00+01:00",
-    "location": "Ost Hauptstr. 293-299 51143 Köln",
-    "trainer": "Mira Welter",
-    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36984"
-  },
-  {
     "title": "Gruppenselbsterfahrung (SE1-VT)",
     "start": "2026-03-15T10:00:00+01:00",
     "end": "2026-03-15T16:30:00+01:00",
     "location": "Raum 5 Hauptstr. 305 51143 Köln",
     "trainer": "Dipl.-Psych. Christoph Wörsdörfer",
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36982"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE2-VT)",
+    "start": "2026-03-15T10:00:00+01:00",
+    "end": "2026-03-15T16:30:00+01:00",
+    "location": "Ost Hauptstr. 293-299 51143 Köln",
+    "trainer": "Mira Welter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36984"
   },
   {
     "title": "Übungen zu psychotherapeutischen Gesprächstechniken (1140)",
@@ -328,12 +328,44 @@
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37898"
   },
   {
+    "title": "Erstgespräch, probatorische Sitzungen und biographische Anamnese (1310)",
+    "start": "2027-02-26T15:00:00+01:00",
+    "end": "2027-02-26T20:00:00+01:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37846"
+  },
+  {
+    "title": "Fallkonzeptualisierung: Problemanalyse, Behandlungsplan (1320)",
+    "start": "2027-02-27T10:00:00+01:00",
+    "end": "2027-02-27T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37847"
+  },
+  {
+    "title": "Gutachterverfahren und Antragsbericht (1330)",
+    "start": "2027-02-28T10:00:00+01:00",
+    "end": "2027-02-28T13:15:00+01:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37848"
+  },
+  {
     "title": "Anamneseseminar 1 (0111)",
     "start": "2027-03-19T15:00:00+01:00",
     "end": "2027-03-19T18:15:00+01:00",
     "location": "Webinar Online",
     "trainer": "Dipl.-Psych. Kim Daniel Teufel",
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37883"
+  },
+  {
+    "title": "Einführung in die Systemische Therapie (3950)",
+    "start": "2027-03-20T10:00:00+01:00",
+    "end": "2027-03-20T17:30:00+01:00",
+    "location": "",
+    "trainer": "M. Sc. Psych. Maren Töpper",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37885"
   },
   {
     "title": "Behandlung von sexuellen Funktionsstörungen (1430)",
@@ -350,6 +382,22 @@
     "location": "EG Hauptstr. 309 51143 Köln",
     "trainer": "Claudia Germing",
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37734"
+  },
+  {
+    "title": "Bericht an den Gutachter (Vertiefung) (1331)",
+    "start": "2027-04-16T15:00:00+02:00",
+    "end": "2027-04-16T18:15:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37965"
+  },
+  {
+    "title": "Rahmenbedingungen der Therapie und Aufbau der therapeutischen Beziehung (1340)",
+    "start": "2027-04-17T10:00:00+02:00",
+    "end": "2027-04-17T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37966"
   },
   {
     "title": "Psychotherapeutische Beziehungsgestaltung (5150)",
@@ -392,6 +440,14 @@
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37715"
   },
   {
+    "title": "Anamneseseminar 2 (0112)",
+    "start": "2027-09-24T15:00:00+02:00",
+    "end": "2027-09-24T18:15:00+02:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Anne Kriebel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37468"
+  },
+  {
     "title": "Psychotherapieforschung (3672)",
     "start": "2027-09-25T10:00:00+02:00",
     "end": "2027-09-25T17:30:00+02:00",
@@ -414,6 +470,14 @@
     "location": "",
     "trainer": "Annika Schürhoff",
     "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37512"
+  },
+  {
+    "title": "Flucht und Migration (1441)",
+    "start": "2027-10-16T10:00:00+02:00",
+    "end": "2027-10-16T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Zeki Efe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37513"
   },
   {
     "title": "Bindungstheorie in der Verhaltenstherapie (1674)",

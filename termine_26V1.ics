@@ -96,19 +96,18 @@ SUMMARY:Psychotherapieforschung (3672)
 UID:4e403d8065a11e7daa153a49b76875b6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37848
+DTEND:20270228T121500Z
+DTSTART:20270228T090000Z
+SUMMARY:Gutachterverfahren und Antragsbericht (1330)
+UID:b72f066e3aeb18ee789e36b0c27df485
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Trainer: Yvonne Torka-Seehaus\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37514
 DTEND:20271017T133000Z
 DTSTART:20271017T080000Z
 SUMMARY:Bindungstheorie in der Verhaltenstherapie (1674)
 UID:51e5e34a247497a40a34be69b402287c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Trainer: Dipl.-Psych. Marco Winter\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37630
-DTEND:20271209T163000Z
-LOCATION:EG Hauptstr. 309 51143 Köln
-DTSTART:20271209T090000Z
-SUMMARY:Klärungsorientierte Psychotherapie 3: Modifikation dysfunktionaler Schemata (EPR) (1630)
-UID:a8acef0d783a21b7c887874de4fbac5a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Trainer: Professor Dr. Diana Moesgen\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37898
@@ -124,6 +123,14 @@ DTEND:20271121T163000Z
 DTSTART:20271121T090000Z
 SUMMARY:Behandlung von Borderline-Persönlichkeitsstörungen: DBT Skillstraining - Übungsseminar (1720)
 UID:0ea8e2e95df7c9b031529247302aad4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Marco Winter\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37630
+DTEND:20271209T163000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20271209T090000Z
+SUMMARY:Klärungsorientierte Psychotherapie 3: Modifikation dysfunktionaler Schemata (EPR) (1630)
+UID:a8acef0d783a21b7c887874de4fbac5a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Trainer: Dr. med. Peter Bommersbach\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36985
@@ -155,6 +162,14 @@ LOCATION:Fischerweg Hauptstr. 321 51143 Köln
 DTSTART:20260619T130000Z
 SUMMARY:Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 2) (1022)
 UID:068399107938ed6629c20ecc5f4622d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37965
+DTEND:20270416T161500Z
+LOCATION:Webinar Online
+DTSTART:20270416T130000Z
+SUMMARY:Bericht an den Gutachter (Vertiefung) (1331)
+UID:8518925d57a5d662f668254fdea755c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Trainer: Dr. Ronald Schneider\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37581
@@ -201,6 +216,13 @@ LOCATION:EG Hauptstr. 309 51143 Köln
 DTSTART:20260302T090000Z
 SUMMARY:Behandlung von panischen und phobischen Ängsten\, Teil 1 (1291)
 UID:d1300490bc9580ee8308f7b83b06c826
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37966
+DTEND:20270417T153000Z
+DTSTART:20270417T080000Z
+SUMMARY:Rahmenbedingungen der Therapie und Aufbau der therapeutischen Beziehung (1340)
+UID:c1f2df85268a5074926a91e3fda3abe9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Trainer: Dr. Michael Schreiber\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37732
@@ -336,6 +358,13 @@ SUMMARY:Herausforderungen im Rahmen der Praktischen Ausbildung (0232)
 UID:3ba17b232a27de1328f9700c88da7fd0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Anne Kriebel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37468
+DTEND:20270924T161500Z
+DTSTART:20270924T130000Z
+SUMMARY:Anamneseseminar 2 (0112)
+UID:77c2e9d71faf1e326a6b486a6e931241
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Trainer: Dipl.-Psych. Marco Winter\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37631
 DTEND:20271208T163000Z
 LOCATION:EG Hauptstr. 309 51143 Köln
@@ -374,6 +403,13 @@ SUMMARY:Verhaltenstherapie mit Kindern\, Jugendlichen und ihren Eltern: Grundlag
 UID:9d3115c9dcabf3054e25daaf3a9fe850
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37847
+DTEND:20270227T163000Z
+DTSTART:20270227T090000Z
+SUMMARY:Fallkonzeptualisierung: Problemanalyse\, Behandlungsplan (1320)
+UID:824bff03efbf4e6c64bdb259c65cefb4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Trainer: M. Sc. Psych. Lena Kümpel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37775
 DTEND:20270129T190000Z
 LOCATION:Webinar Online
@@ -406,12 +442,33 @@ SUMMARY:Gruppenselbsterfahrung (SE1-VT)
 UID:d9cfbec88f5767da6a891978d4ae2b87
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Trainer: M. Sc. Psych. Maren Töpper\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37885
+DTEND:20270320T163000Z
+DTSTART:20270320T090000Z
+SUMMARY:Einführung in die Systemische Therapie (3950)
+UID:c8b71b0a2931b9f05f410c4911b8ac8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Zeki Efe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37513
+DTEND:20271016T153000Z
+DTSTART:20271016T080000Z
+SUMMARY:Flucht und Migration (1441)
+UID:211257bc978adcadf6c2c95c478336c6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Trainer: Dipl.-Psych. Marco Winter\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=36980
 DTEND:20260321T163000Z
 LOCATION:Raum 9 Hauptstr. 305 51143 Köln
 DTSTART:20260321T090000Z
 SUMMARY:Übungen zu psychotherapeutischen Gesprächstechniken (1140)
 UID:8b20ef82c989b8b050e39562bdff1aa2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37846
+DTEND:20270226T190000Z
+DTSTART:20270226T140000Z
+SUMMARY:Erstgespräch\, probatorische Sitzungen und biographische Anamnese (1310)
+UID:2ea94569081667d3aaa0be1a94bcb227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Trainer: Claudia Germing\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37734
