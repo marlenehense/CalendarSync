@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Einführungsveranstaltung (5010)",
+    "start": "2026-05-08T15:00:00+02:00",
+    "end": "2026-05-08T18:15:00+02:00",
+    "location": "2. OG Hauptstr. 309 51143 Köln",
+    "trainer": "M. Sc. Psych. Lena Kümpel Dipl.-Psych. Anne Kriebel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37098"
+  },
+  {
+    "title": "Allgemeine und spezielle psychiatrische Krankheitslehre (Teil 1) (3051)",
+    "start": "2026-05-09T10:00:00+02:00",
+    "end": "2026-05-09T13:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Annegret Drangmeister",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37099"
+  },
+  {
+    "title": "Allgemeine und spezielle psychiatrische Krankheitslehre (Teil 2) (3052)",
+    "start": "2026-05-09T14:00:00+02:00",
+    "end": "2026-05-09T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Annegret Drangmeister",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37100"
+  },
+  {
+    "title": "Psychopathologischer Befund (3061)",
+    "start": "2026-05-29T15:00:00+02:00",
+    "end": "2026-05-29T20:00:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. med. Daniela Konkol",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37101"
+  },
+  {
+    "title": "Einführung in die Verhaltenstherapie (Teil 1) (5080)",
+    "start": "2026-05-30T10:00:00+02:00",
+    "end": "2026-05-30T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37102"
+  },
+  {
+    "title": "Einführung in die Verhaltenstherapie (Teil 2) (5070)",
+    "start": "2026-05-31T10:00:00+02:00",
+    "end": "2026-05-31T15:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37103"
+  },
+  {
+    "title": "Psychopharmakologie (3062)",
+    "start": "2026-06-19T15:00:00+02:00",
+    "end": "2026-06-19T20:00:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. med. Daniela Konkol",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37104"
+  },
+  {
+    "title": "Übungen zu psychotherapeutischen Gesprächstechniken (1140)",
+    "start": "2026-06-20T10:00:00+02:00",
+    "end": "2026-06-20T17:30:00+02:00",
+    "location": "Raum 9 Hauptstr. 305 51143 Köln",
+    "trainer": "Dipl.-Psych. Marco Winter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37105"
+  },
+  {
+    "title": "Entspannungsverfahren (3130)",
+    "start": "2026-06-21T10:00:00+02:00",
+    "end": "2026-06-21T17:30:00+02:00",
+    "location": "Mittendrin - Raum 1 Friedrich-Ebert-Platz 3 51143 Köln",
+    "trainer": "Kevin Klesen",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37106"
+  },
+  {
+    "title": "Behandlung von panischen und phobischen Ängsten, Teil 1 (1291)",
+    "start": "2026-06-29T10:00:00+02:00",
+    "end": "2026-06-29T15:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "M. Sc. Psych. Lena Kümpel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37107"
+  },
+  {
+    "title": "Behandlung von panischen und phobischen Ängsten, Teil 2 (1290)",
+    "start": "2026-06-30T10:00:00+02:00",
+    "end": "2026-06-30T15:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "M. Sc. Psych. Lena Kümpel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37108"
+  },
+  {
+    "title": "Gruppentherapie W (1180)",
+    "start": "2026-07-01T10:00:00+02:00",
+    "end": "2026-07-01T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Dipl.-Psych. Christoph Wörsdörfer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37109"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE1-VT)",
+    "start": "2026-07-11T10:00:00+02:00",
+    "end": "2026-07-11T17:30:00+02:00",
+    "location": "Ost Hauptstr. 293-299 51143 Köln",
+    "trainer": "Claudia Brantzen",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37110"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE2-VT)",
+    "start": "2026-07-11T10:00:00+02:00",
+    "end": "2026-07-11T17:30:00+02:00",
+    "location": "Nord Hauptstr. 293-299 51143 Köln",
+    "trainer": "Florian Meinhold",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37112"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE1-VT)",
+    "start": "2026-07-12T10:00:00+02:00",
+    "end": "2026-07-12T16:30:00+02:00",
+    "location": "Ost Hauptstr. 293-299 51143 Köln",
+    "trainer": "Claudia Brantzen",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37111"
+  },
+  {
+    "title": "Gruppenselbsterfahrung (SE2-VT)",
+    "start": "2026-07-12T10:00:00+02:00",
+    "end": "2026-07-12T16:30:00+02:00",
+    "location": "Raum 1 Hauptstr. 305 51143 Köln",
+    "trainer": "Florian Meinhold",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37113"
+  },
+  {
+    "title": "Übungen zu psychotherapeutischen Gesprächstechniken (1140)",
+    "start": "2026-09-19T10:00:00+02:00",
+    "end": "2026-09-19T17:30:00+02:00",
+    "location": "Curanum Dülkenstr.18 51143 Köln",
+    "trainer": "Dipl.-Psych. Marco Winter",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37114"
+  },
+  {
+    "title": "Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 1) (1021)",
+    "start": "2026-09-25T15:00:00+02:00",
+    "end": "2026-09-25T18:15:00+02:00",
+    "location": "Fischerweg Hauptstr. 321 51143 Köln",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37116"
+  },
+  {
+    "title": "Soziales Kompetenztraining im Erwachsenenalter (6260)",
+    "start": "2026-09-27T10:00:00+02:00",
+    "end": "2026-09-27T17:30:00+02:00",
+    "location": "Curanum Dülkenstr.18 51143 Köln",
+    "trainer": "Dipl.-Psych. Bettina Tietz-Roder",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37117"
+  },
+  {
+    "title": "Affektive Störungen, Behandlung von Depressiven Erkrankungen (1770)",
+    "start": "2026-10-11T10:00:00+02:00",
+    "end": "2026-10-11T17:30:00+02:00",
+    "location": "Gemeindehaus Mühlenstraße 4 51143 Köln",
+    "trainer": "Dipl.-Psych. Claudia Hesse",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37115"
+  },
+  {
+    "title": "Verhaltenstherapie 1 (Teil 1) (6220)",
+    "start": "2026-11-21T10:00:00+01:00",
+    "end": "2026-11-21T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37118"
+  },
+  {
+    "title": "Verhaltenstherapie 1 (Teil 2) (6230) e",
+    "start": "2026-11-22T10:00:00+01:00",
+    "end": "2026-11-22T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37119"
+  },
+  {
+    "title": "Psychotherapeutische Diagnostik: Testdiagnostik - Hintergründe, Übung und Interpretation (1190)",
+    "start": "2026-12-13T10:00:00+01:00",
+    "end": "2026-12-13T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. phil. Steffen Wolfsgruber",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37120"
+  },
+  {
+    "title": "Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 2) (1022)",
+    "start": "2027-01-08T15:00:00+01:00",
+    "end": "2027-01-08T18:15:00+01:00",
+    "location": "",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37693"
+  },
+  {
+    "title": "Ressourcenorientiertes Arbeiten in der VT (1270)",
+    "start": "2027-01-24T10:00:00+01:00",
+    "end": "2027-01-24T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Ellen Bahr",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37694"
+  },
+  {
+    "title": "Kognitive VT (Teil 1) (1240)",
+    "start": "2027-02-20T10:00:00+01:00",
+    "end": "2027-02-20T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37839"
+  },
+  {
+    "title": "Kognitive VT (Teil 2) (1250)",
+    "start": "2027-02-21T10:00:00+01:00",
+    "end": "2027-02-21T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Lara Âror",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37840"
+  },
+  {
+    "title": "Komplementäre Beziehungsgestaltung in der VT (1470)",
+    "start": "2027-04-10T10:00:00+02:00",
+    "end": "2027-04-10T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Ronald Schneider",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37756"
+  },
+  {
+    "title": "Psychotherapeutische Beziehung: Therapiemotivation und Compliance (1350)",
+    "start": "2027-04-11T10:00:00+02:00",
+    "end": "2027-04-11T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Ronald Schneider",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37757"
+  },
+  {
+    "title": "Psychosomatik: Allgemeine Krankheitslehre und ausgewählte Krankheitsbilder (3110)",
+    "start": "2027-04-25T10:00:00+02:00",
+    "end": "2027-04-25T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. med. Thomas Reimer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37805"
+  },
+  {
+    "title": "Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 3) (1023)",
+    "start": "2027-05-21T15:00:00+02:00",
+    "end": "2027-05-21T18:15:00+02:00",
+    "location": "",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37595"
+  },
+  {
+    "title": "Gruppentherapie H (3170)",
+    "start": "2027-05-22T10:00:00+02:00",
+    "end": "2027-05-22T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. med. Norbert Hartkamp",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37596"
+  },
+  {
+    "title": "Einführung in die Ambulanztätigkeit (5420)",
+    "start": "2027-06-11T15:00:00+02:00",
+    "end": "2027-06-11T20:00:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "M. Sc. Psych. Lena Kümpel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37564"
+  },
+  {
+    "title": "Berufsrecht (3600)",
+    "start": "2027-06-13T10:00:00+02:00",
+    "end": "2027-06-13T17:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Prof. Thomas Ufer",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37553"
+  },
+  {
+    "title": "Achtsamkeit (1550)",
+    "start": "2027-07-03T10:00:00+02:00",
+    "end": "2027-07-03T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Dr. Daniel Wagner",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37718"
+  },
+  {
+    "title": "Kognitive Behandlung der Schizophrenie (1280)",
+    "start": "2027-07-04T10:00:00+02:00",
+    "end": "2027-07-04T17:30:00+02:00",
+    "location": "",
+    "trainer": "Prof. Reinhard Maß",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37722"
+  },
+  {
+    "title": "Behandlung von Schlafstörungen (1410)",
+    "start": "2027-07-16T15:00:00+02:00",
+    "end": "2027-07-16T20:00:00+02:00",
+    "location": "",
+    "trainer": "Dr. Michael Schreiber",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37793"
+  },
+  {
+    "title": "Einführung in die Systemische Therapie (3950)",
+    "start": "2027-07-17T10:00:00+02:00",
+    "end": "2027-07-17T17:30:00+02:00",
+    "location": "",
+    "trainer": "M. Sc. Psych. Maren Töpper",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37794"
+  },
+  {
+    "title": "Psychodynamische Psychotherapie bei Kindern und Jugendlichen: Grundlagen (3520)",
+    "start": "2027-09-12T10:00:00+02:00",
+    "end": "2027-09-12T15:30:00+02:00",
+    "location": "EG Hauptstr. 309 51143 Köln",
+    "trainer": "Claudia Germing",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37446"
+  },
+  {
+    "title": "Behandlung von Abhängigkeitsstörungen (1460)",
+    "start": "2027-10-01T10:00:00+02:00",
+    "end": "2027-10-01T17:30:00+02:00",
+    "location": "Webinar Online",
+    "trainer": "Professor Dr. Diana Moesgen",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37441"
+  },
+  {
+    "title": "Erstgespräch, probatorische Sitzungen und biographische Anamnese (1310)",
+    "start": "2027-10-08T15:00:00+02:00",
+    "end": "2027-10-08T20:00:00+02:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37489"
+  },
+  {
+    "title": "Fallkonzeptualisierung: Problemanalyse, Behandlungsplan (1320)",
+    "start": "2027-10-09T10:00:00+02:00",
+    "end": "2027-10-09T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37496"
+  },
+  {
+    "title": "Gutachterverfahren und Antragsbericht (1330)",
+    "start": "2027-10-10T10:00:00+02:00",
+    "end": "2027-10-10T13:15:00+02:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37497"
+  },
+  {
+    "title": "Anamneseseminar 2 (0112)",
+    "start": "2027-10-22T15:00:00+02:00",
+    "end": "2027-10-22T18:15:00+02:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Anne Kriebel",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37522"
+  },
+  {
+    "title": "Behandlung von sexuellen Funktionsstörungen (1430)",
+    "start": "2027-10-23T10:00:00+02:00",
+    "end": "2027-10-23T17:30:00+02:00",
+    "location": "",
+    "trainer": "Dipl.-Psych. Renate Bauer Prof. Reinhard Maß",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37523"
+  },
+  {
+    "title": "Krisenintervention: Umgang mit suizidalen Krisen (3450)",
+    "start": "2027-11-13T10:00:00+01:00",
+    "end": "2027-11-13T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. med. Peter Bommersbach",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37664"
+  },
+  {
+    "title": "Klärungsorientierte Psychotherapie 1: Differentielle Grundlagen und Explikation von Schemata (1610)",
+    "start": "2027-11-14T10:00:00+01:00",
+    "end": "2027-11-14T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dr. Ronald Schneider",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37665"
+  },
+  {
+    "title": "Verhaltenstherapie mit Kindern, Jugendlichen und ihren Eltern: Grundlagen (3510)",
+    "start": "2027-11-26T15:00:00+01:00",
+    "end": "2027-11-26T20:00:00+01:00",
+    "location": "",
+    "trainer": "Julia Brunet",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37648"
+  },
+  {
+    "title": "Verhaltenstherapie mit Kindern, Jugendlichen und ihren Eltern: Vertiefung (1540)",
+    "start": "2027-11-27T10:00:00+01:00",
+    "end": "2027-11-27T17:30:00+01:00",
+    "location": "",
+    "trainer": "Julia Brunet",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37649"
+  },
+  {
+    "title": "Behandlung von Essstörungen (1390)",
+    "start": "2027-11-28T10:00:00+01:00",
+    "end": "2027-11-28T17:30:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Prof. Dr. Thomas Schnell",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37936"
+  },
+  {
+    "title": "Bericht an den Gutachter (Vertiefung) (1331)",
+    "start": "2027-12-17T15:00:00+01:00",
+    "end": "2027-12-17T18:15:00+01:00",
+    "location": "Webinar Online",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37618"
+  },
+  {
+    "title": "Rahmenbedingungen der Therapie und Aufbau der therapeutischen Beziehung (1340)",
+    "start": "2027-12-18T10:00:00+01:00",
+    "end": "2027-12-18T17:30:00+01:00",
+    "location": "",
+    "trainer": "Dr. Katrin Schewe",
+    "link": "https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37617"
+  }
+]

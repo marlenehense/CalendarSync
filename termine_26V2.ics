@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Julia Brunet\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37649
+DTEND:20271127T163000Z
+DTSTART:20271127T090000Z
+SUMMARY:Verhaltenstherapie mit Kindern\, Jugendlichen und ihren Eltern: Vertiefung (1540)
+UID:b57ae79875137049880b1d9cf3571dd5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Marco Winter\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37114
+DTEND:20260919T153000Z
+LOCATION:Curanum Dülkenstr.18 51143 Köln
+DTSTART:20260919T080000Z
+SUMMARY:Übungen zu psychotherapeutischen Gesprächstechniken (1140)
+UID:3c5613413e122087b403048e68fca196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Professor Dr. Diana Moesgen\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37441
+DTEND:20271001T153000Z
+LOCATION:Webinar Online
+DTSTART:20271001T080000Z
+SUMMARY:Behandlung von Abhängigkeitsstörungen (1460)
+UID:abffd880d9cc2cb8f06b17b2a08a7414
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Florian Meinhold\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37113
+DTEND:20260712T143000Z
+LOCATION:Raum 1 Hauptstr. 305 51143 Köln
+DTSTART:20260712T080000Z
+SUMMARY:Gruppenselbsterfahrung (SE2-VT)
+UID:7dd8950ece3568b6da03469931549fda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37496
+DTEND:20271009T153000Z
+DTSTART:20271009T080000Z
+SUMMARY:Fallkonzeptualisierung: Problemanalyse\, Behandlungsplan (1320)
+UID:1dedc4d2c35153239c7470e05b369eae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: M. Sc. Psych. Maren Töpper\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37794
+DTEND:20270717T153000Z
+DTSTART:20270717T080000Z
+SUMMARY:Einführung in die Systemische Therapie (3950)
+UID:5a42c53e303141d8543ae1081a9591be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: M. Sc. Psych. Lena Kümpel Dipl.-Psych. Anne Kriebel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37098
+DTEND:20260508T161500Z
+LOCATION:2. OG Hauptstr. 309 51143 Köln
+DTSTART:20260508T130000Z
+SUMMARY:Einführungsveranstaltung (5010)
+UID:b9df7b2c0a91b9a57aa16ecd65e6af0e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Ronald Schneider\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37757
+DTEND:20270411T153000Z
+DTSTART:20270411T080000Z
+SUMMARY:Psychotherapeutische Beziehung: Therapiemotivation und Compliance (1350)
+UID:f629fdb711a4da04b235d041c9028ad6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Peter Bommersbach\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37664
+DTEND:20271113T163000Z
+LOCATION:Webinar Online
+DTSTART:20271113T090000Z
+SUMMARY:Krisenintervention: Umgang mit suizidalen Krisen (3450)
+UID:d2c1078a3f5f02fc87d27b01218387c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Lara Âror\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37840
+DTEND:20270221T163000Z
+DTSTART:20270221T090000Z
+SUMMARY:Kognitive VT (Teil 2) (1250)
+UID:8a2255b3ccda4fe6a24b93356a8d884c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Prof. Reinhard Maß\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37722
+DTEND:20270704T153000Z
+DTSTART:20270704T080000Z
+SUMMARY:Kognitive Behandlung der Schizophrenie (1280)
+UID:3ad8c1ecf4b880a7d85c9504db54407b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Norbert Hartkamp\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37596
+DTEND:20270522T153000Z
+DTSTART:20270522T080000Z
+SUMMARY:Gruppentherapie H (3170)
+UID:327afdd24d2d5c22cf2368f2c3e9c64c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Florian Meinhold\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37112
+DTEND:20260711T153000Z
+LOCATION:Nord Hauptstr. 293-299 51143 Köln
+DTSTART:20260711T080000Z
+SUMMARY:Gruppenselbsterfahrung (SE2-VT)
+UID:7a572ddfaa89a2bed4e92f4ace2e56c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Claudia Brantzen\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37110
+DTEND:20260711T153000Z
+LOCATION:Ost Hauptstr. 293-299 51143 Köln
+DTSTART:20260711T080000Z
+SUMMARY:Gruppenselbsterfahrung (SE1-VT)
+UID:04304fdb2c578fa6b2ecc3d548d9ec48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Prof. Dr. Thomas Schnell\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37936
+DTEND:20271128T163000Z
+LOCATION:Webinar Online
+DTSTART:20271128T090000Z
+SUMMARY:Behandlung von Essstörungen (1390)
+UID:654381e9b2f1cab4b744d76539b6fb89
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Anne Kriebel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37522
+DTEND:20271022T161500Z
+DTSTART:20271022T130000Z
+SUMMARY:Anamneseseminar 2 (0112)
+UID:01322502afd481bc3763fc3d46cbffe4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Renate Bauer Prof. Reinhard Maß\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37523
+DTEND:20271023T153000Z
+DTSTART:20271023T080000Z
+SUMMARY:Behandlung von sexuellen Funktionsstörungen (1430)
+UID:d223852128f00746733c605155ee0fe5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Daniela Konkol\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37101
+DTEND:20260529T180000Z
+LOCATION:Webinar Online
+DTSTART:20260529T130000Z
+SUMMARY:Psychopathologischer Befund (3061)
+UID:e784550d31d0a9078f0ec09755cff064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Dr. Daniel Wagner\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37718
+DTEND:20270703T153000Z
+DTSTART:20270703T080000Z
+SUMMARY:Achtsamkeit (1550)
+UID:ac2f6775e9166bc9d3df63ed4173b0a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Peter Bommersbach\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37693
+DTEND:20270108T171500Z
+DTSTART:20270108T140000Z
+SUMMARY:Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 2) (1022)
+UID:91ddb470d57050818928c22c64f241fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Prof. Dr. Thomas Schnell\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37118
+DTEND:20261121T163000Z
+LOCATION:Webinar Online
+DTSTART:20261121T090000Z
+SUMMARY:Verhaltenstherapie 1 (Teil 1) (6220)
+UID:c65bbba18fcb111c8a505775c64e17ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Lara Âror\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37103
+DTEND:20260531T133000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260531T080000Z
+SUMMARY:Einführung in die Verhaltenstherapie (Teil 2) (5070)
+UID:b9f2e39ee2b11f15b9a4b5d42f7437cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: M. Sc. Psych. Lena Kümpel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37564
+DTEND:20270611T180000Z
+LOCATION:Webinar Online
+DTSTART:20270611T130000Z
+SUMMARY:Einführung in die Ambulanztätigkeit (5420)
+UID:6dc010053d46c50a995e0301693fbb9f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Annegret Drangmeister\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37099
+DTEND:20260509T113000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260509T080000Z
+SUMMARY:Allgemeine und spezielle psychiatrische Krankheitslehre (Teil 1) (3051)
+UID:a4cef03590a0ead07005ead2b734e3e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Ronald Schneider\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37756
+DTEND:20270410T153000Z
+DTSTART:20270410T080000Z
+SUMMARY:Komplementäre Beziehungsgestaltung in der VT (1470)
+UID:a72ee232337448cf583bf6afec20ee94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37497
+DTEND:20271010T111500Z
+DTSTART:20271010T080000Z
+SUMMARY:Gutachterverfahren und Antragsbericht (1330)
+UID:5498e6c816ff886f948f71ef979fd0d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Prof. Thomas Ufer\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37553
+DTEND:20270613T153000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20270613T080000Z
+SUMMARY:Berufsrecht (3600)
+UID:0a465546cd76b94b5b8219342acfb1e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Claudia Hesse\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37115
+DTEND:20261011T153000Z
+LOCATION:Gemeindehaus Mühlenstraße 4 51143 Köln
+DTSTART:20261011T080000Z
+SUMMARY:Affektive Störungen\, Behandlung von Depressiven Erkrankungen (1770)
+UID:d2b0a8ed01d61683c334071541f8dcc2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Ronald Schneider\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37665
+DTEND:20271114T163000Z
+DTSTART:20271114T090000Z
+SUMMARY:Klärungsorientierte Psychotherapie 1: Differentielle Grundlagen und Explikation von Schemata (1610)
+UID:bb93a4ced178e4698c9e5d597ead7e73
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37617
+DTEND:20271218T163000Z
+DTSTART:20271218T090000Z
+SUMMARY:Rahmenbedingungen der Therapie und Aufbau der therapeutischen Beziehung (1340)
+UID:0f612044d7ca98956c920a573f488b9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Christoph Wörsdörfer\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37109
+DTEND:20260701T153000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260701T080000Z
+SUMMARY:Gruppentherapie W (1180)
+UID:afcc08285647fbe3fb3b8d239b7ce3dc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Prof. Dr. Thomas Schnell\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37119
+DTEND:20261122T163000Z
+LOCATION:Webinar Online
+DTSTART:20261122T090000Z
+SUMMARY:Verhaltenstherapie 1 (Teil 2) (6230) e
+UID:2f7a41f85140a5514cedbd4b73fa5579
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Julia Brunet\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37648
+DTEND:20271126T190000Z
+DTSTART:20271126T140000Z
+SUMMARY:Verhaltenstherapie mit Kindern\, Jugendlichen und ihren Eltern: Grundlagen (3510)
+UID:cdf94dd2d702b88bff61543f95f51d90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Claudia Brantzen\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37111
+DTEND:20260712T143000Z
+LOCATION:Ost Hauptstr. 293-299 51143 Köln
+DTSTART:20260712T080000Z
+SUMMARY:Gruppenselbsterfahrung (SE1-VT)
+UID:17d3077acbb3c44a845d8a9664e5466a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. phil. Steffen Wolfsgruber\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37120
+DTEND:20261213T163000Z
+LOCATION:Webinar Online
+DTSTART:20261213T090000Z
+SUMMARY:Psychotherapeutische Diagnostik: Testdiagnostik - Hintergründe\, Übung und Interpretation (1190)
+UID:1ecf3a52e2c4cee2b9aa18ca3c3eccdf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Lara Âror\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37839
+DTEND:20270220T163000Z
+DTSTART:20270220T090000Z
+SUMMARY:Kognitive VT (Teil 1) (1240)
+UID:0fc5730197c8a89bcc69ce1df7f4ebf2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Ellen Bahr\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37694
+DTEND:20270124T163000Z
+DTSTART:20270124T090000Z
+SUMMARY:Ressourcenorientiertes Arbeiten in der VT (1270)
+UID:6727cad90ffeb852a6b5cfdfa470b901
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Peter Bommersbach\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37116
+DTEND:20260925T161500Z
+LOCATION:Fischerweg Hauptstr. 321 51143 Köln
+DTSTART:20260925T130000Z
+SUMMARY:Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 1) (1021)
+UID:2b5f6a6d007568e96386c10ea335a4c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37489
+DTEND:20271008T180000Z
+DTSTART:20271008T130000Z
+SUMMARY:Erstgespräch\, probatorische Sitzungen und biographische Anamnese (1310)
+UID:596ee45ce646fd29bbd7b54f92d254ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Annegret Drangmeister\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37100
+DTEND:20260509T153000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260509T120000Z
+SUMMARY:Allgemeine und spezielle psychiatrische Krankheitslehre (Teil 2) (3052)
+UID:51f06a18df83a5ecc7d5f804c1aa8443
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Marco Winter\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37105
+DTEND:20260620T153000Z
+LOCATION:Raum 9 Hauptstr. 305 51143 Köln
+DTSTART:20260620T080000Z
+SUMMARY:Übungen zu psychotherapeutischen Gesprächstechniken (1140)
+UID:20897122a7944198600be490617437f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Daniela Konkol\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37104
+DTEND:20260619T180000Z
+LOCATION:Webinar Online
+DTSTART:20260619T130000Z
+SUMMARY:Psychopharmakologie (3062)
+UID:a6c79c8f77b04e5039d143c07dadc02b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Michael Schreiber\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37793
+DTEND:20270716T180000Z
+DTSTART:20270716T130000Z
+SUMMARY:Behandlung von Schlafstörungen (1410)
+UID:0ec0b63c2cbeb14aba7678ad50a05006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Claudia Germing\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37446
+DTEND:20270912T133000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20270912T080000Z
+SUMMARY:Psychodynamische Psychotherapie bei Kindern und Jugendlichen: Grundlagen (3520)
+UID:11541da9bc2e58d2f82bc83bd7720223
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Lara Âror\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37102
+DTEND:20260530T153000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260530T080000Z
+SUMMARY:Einführung in die Verhaltenstherapie (Teil 1) (5080)
+UID:edf6a6b76d56a9ef174466c437e86df8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Thomas Reimer\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37805
+DTEND:20270425T153000Z
+DTSTART:20270425T080000Z
+SUMMARY:Psychosomatik: Allgemeine Krankheitslehre und ausgewählte Krankheitsbilder (3110)
+UID:1363a656b88a42ac25b5aa261dcba74d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Kevin Klesen\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37106
+DTEND:20260621T153000Z
+LOCATION:Mittendrin - Raum 1 Friedrich-Ebert-Platz 3 51143 Köln
+DTSTART:20260621T080000Z
+SUMMARY:Entspannungsverfahren (3130)
+UID:65077501ce35cf74c17b73bd2b1939c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. med. Peter Bommersbach\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37595
+DTEND:20270521T161500Z
+DTSTART:20270521T130000Z
+SUMMARY:Reflexion der Beziehungserfahrungen in der Praktischen Tätigkeit (Teil 3) (1023)
+UID:65a50cc62bb80a0b3d20facd9d0f4c6b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: M. Sc. Psych. Lena Kümpel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37108
+DTEND:20260630T133000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260630T080000Z
+SUMMARY:Behandlung von panischen und phobischen Ängsten\, Teil 2 (1290)
+UID:e9b9f6afdc3178e4d1c0738892908a33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: M. Sc. Psych. Lena Kümpel\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37107
+DTEND:20260629T133000Z
+LOCATION:EG Hauptstr. 309 51143 Köln
+DTSTART:20260629T080000Z
+SUMMARY:Behandlung von panischen und phobischen Ängsten\, Teil 1 (1291)
+UID:1011ad08796f0276b055737bb7d2a392
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dr. Katrin Schewe\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37618
+DTEND:20271217T171500Z
+LOCATION:Webinar Online
+DTSTART:20271217T140000Z
+SUMMARY:Bericht an den Gutachter (Vertiefung) (1331)
+UID:a4d3b5e5aa9ab626792163cff716d64a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trainer: Dipl.-Psych. Bettina Tietz-Roder\nLink: https://10026.webseminare.biz/index.php?view=VeDetails&VeID=37117
+DTEND:20260927T153000Z
+LOCATION:Curanum Dülkenstr.18 51143 Köln
+DTSTART:20260927T080000Z
+SUMMARY:Soziales Kompetenztraining im Erwachsenenalter (6260)
+UID:acfe6000dc8133be6e8ecc911ca371ed
+END:VEVENT
+END:VCALENDAR
