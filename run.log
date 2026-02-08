@@ -1,41 +1,375 @@
------ Job started at Sun Jan 18 15:05:48 CET 2026
-py-script run completed at Sun Jan 18 15:05:56 CET 2026
+----- Job started at Fri Jan 23 09:45:00 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Fri Jan 23 09:45:00 CET 2026
 On branch main
 Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
+  (use "git add/rm <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   run.log
-
-no changes added to commit (use "git add" and/or "git commit -a")
-github push completed at Sun Jan 18 15:05:57 CET 2026
------ Job started at Sun Jan 18 15:11:19 CET 2026
-py-script run completed at Sun Jan 18 15:11:27 CET 2026
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   run.log
-
-no changes added to commit (use "git add" and/or "git commit -a")
-github push completed at Sun Jan 18 15:11:28 CET 2026
------ Job started at Sun Jan 18 20:14:05 CET 2026
-py-script run completed at Sun Jan 18 20:14:05 CET 2026
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   main.py
 	modified:   run.err
 	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[main 7e078c4] Update runlog 2026-01-18 20:14
+github push completed at Fri Jan 23 09:45:00 CET 2026
+----- Job started at Fri Jan 23 15:04:37 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Fri Jan 23 15:04:37 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+github push completed at Fri Jan 23 15:04:37 CET 2026
+----- Job started at Sat Jan 24 09:14:56 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Sat Jan 24 09:14:57 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+github push completed at Sat Jan 24 09:14:57 CET 2026
+
+----- Job started at Sat Jan 24 10:35:05 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Sat Jan 24 10:35:33 CET 2026
+[main 9ce0977] Update calendar 2026-01-24 10:35
+ Committer: Marlene Hense <marlene@MacBook-Pro-von-Marlene.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 137 insertions(+), 16 deletions(-)
+To github.com:marlenehense/CalendarSync.git
+   f7081e8..9ce0977  main -> main
+github push completed at Sat Jan 24 10:35:35 CET 2026\n
+----- Job started at Sat Jan 24 10:38:04 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Sat Jan 24 10:38:34 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Sat Jan 24 10:38:36 CET 2026\n
+----- Job started at Sat Jan 24 12:00:01 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Sat Jan 24 12:00:45 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Sat Jan 24 12:00:47 CET 2026\n
+----- Job started at Sat Jan 24 16:02:04 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Sat Jan 24 16:03:01 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Sat Jan 24 16:03:04 CET 2026\n
+----- Job started at Sun Jan 25 10:47:16 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Sun Jan 25 10:47:17 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+github push completed at Sun Jan 25 10:47:17 CET 2026\n
+----- Job started at Sun Jan 25 12:12:28 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Sun Jan 25 12:45:56 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Sun Jan 25 12:45:57 CET 2026\n
+
+----- Job started at Sun Jan 25 16:00:00 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Sun Jan 25 16:12:41 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Sun Jan 25 16:12:43 CET 2026\n
+----- Job started at Mon Jan 26 10:46:10 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Mon Jan 26 11:03:13 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Mon Jan 26 11:03:15 CET 2026 
+-------------------------------- 
+----- Job started at Mon Jan 26 12:09:43 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Mon Jan 26 12:26:07 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Mon Jan 26 12:26:09 CET 2026 
+-------------------------------- 
+----- Job started at Mon Jan 26 16:06:19 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Mon Jan 26 16:38:10 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Mon Jan 26 16:38:12 CET 2026 
+-------------------------------- 
+----- Job started at Tue Jan 27 10:48:50 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Tue Jan 27 11:05:23 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Tue Jan 27 11:05:25 CET 2026 
+-------------------------------- 
+----- Job started at Tue Jan 27 12:14:03 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+py-script run completed at Tue Jan 27 12:48:23 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Tue Jan 27 12:48:25 CET 2026 
+-------------------------------- 
+----- Job started at Tue Jan 27 16:16:38 CET 2026 -----
+----- Job started at Fri Feb  6 19:14:47 CET 2026 -----
+py-script run completed at Fri Feb  6 19:14:56 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Fri Feb  6 19:14:58 CET 2026 
+-------------------------------- 
+----- Job started at Fri Feb  6 19:56:02 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+py-script run completed at Fri Feb  6 19:56:13 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	sheduler.txt
+	termine_26V2.ics
+	termine_26V2.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Fri Feb  6 19:56:14 CET 2026 
+-------------------------------- 
+----- Job started at Fri Feb  6 19:57:54 CET 2026 -----
+py-script run completed at Fri Feb  6 19:58:11 CET 2026
+[main 5e01040] Update calendar 2026-02-06 19:58
  Committer: Marlene Hense <marlene@MBP-von-Marlene.fritz.box>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -49,17 +383,50 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 1 file changed, 14 insertions(+)
-github push completed at Sun Jan 18 20:14:07 CET 2026
------ Job started at Sun Jan 18 21:14:11 CET 2026
-py-script run completed at Sun Jan 18 21:14:20 CET 2026
+ 2 files changed, 816 insertions(+)
+ create mode 100644 termine_26V2.ics
+ create mode 100644 termine_26V2.json
+To github.com:marlenehense/CalendarSync.git
+   b67c660..5e01040  main -> main
+github push completed at Fri Feb  6 19:58:13 CET 2026 
+-------------------------------- 
+----- Job started at Sat Feb  7 10:55:07 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+ICS-Datei erstellt: termine_26V1.ics✅
+JSON-Datei erstellt: termine_26V1.json ✅
+https://10026.webseminare.biz/index.php?filter3=26V2
+py-script run completed at Sat Feb  7 11:45:11 CET 2026
+[main a7f18f6] Update calendar 2026-02-07 11:45
+ Committer: Marlene Hense <marlene@MBP-von-Marlene.fritz.box>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+To github.com:marlenehense/CalendarSync.git
+   5e01040..a7f18f6  main -> main
+github push completed at Sat Feb  7 11:45:13 CET 2026 
+-------------------------------- 
+----- Job started at Sat Feb  7 14:08:11 CET 2026 -----
+https://10026.webseminare.biz/index.php?filter3=26V1
+https://10026.webseminare.biz/index.php?filter3=26V2
+ICS-Datei erstellt: termine_26V2.ics✅
+JSON-Datei erstellt: termine_26V2.json ✅
+py-script run completed at Sat Feb  7 14:40:14 CET 2026
 On branch main
 Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   main.py
 	modified:   run.err
 	modified:   run.log
 	modified:   run_main.sh
@@ -68,7 +435,33 @@ Changes not staged for commit:
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	termine_26V1.ics
-	termine_26V1.json
+	com.marlene.calendarsync.plist
+	setup_launchd.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+github push completed at Sat Feb  7 14:40:15 CET 2026 
+-------------------------------- 
+----- Job started at Sat Feb  7 20:08:06 CET 2026 -----
+----- Job started at Sat Feb  7 20:57:44 CET 2026 -----
+py-script run completed at Sat Feb  7 20:58:01 CET 2026
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    run.err
+	modified:   run.log
+	modified:   run_main.sh
+	deleted:    termine.ics
+	deleted:    termine.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	com.marlene.calendarsync.plist
+	setup_launchd.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
+github push completed at Sat Feb  7 20:58:02 CET 2026 
+-------------------------------- 

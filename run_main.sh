@@ -2,20 +2,29 @@
 #eval "$(ssh-agent -s)"
 #ssh-add ~/.ssh/id_ed25519
 
-LOGFILE="/Users/marlene/CalendarSync/run.log"
+# BASH VARS
+WDIR="/Users/marlene/CalendarSync"
+PYTHON_PATH="$WDIR/.venv/bin/python"
+LOGFILE="$WDIR/run.log"
 
+echo "----- Job started at $(date) -----" >> "$LOGFILE"
 
-echo "----- Job started at $(date)" >> "$LOGFILE"
-cd /Users/marlene/CalendarSync  || exit
-/Users/marlene/CalendarSync/.venv/bin/python main.py --view 26V1
+# SET WDR
+cd "$WDIR"  || exit
+
+# RUN PYTHON
+"$PYTHON_PATH" main.py --view 26V1
+"$PYTHON_PATH" main.py --view 26V2
 echo "py-script run completed at $(date)" >> "$LOGFILE"
 
-git add calendar.ics
-#git add run.log
-git commit -m "Update calendar $(date '+%Y-%m-%d %H:%M')"  >> "$LOGFILE" 2>&1
+# ADD TO GIT
+git add termine_26V1.ics
+git add termine_26V1.json
+git add termine_26V2.ics
+git add termine_26V2.json
+git commit -m "Update calendar $(date '+%Y-%m-%d %H:%M')"  >> "$LOGFILE" 
 
-git add run.log
-git commit -m "Update runlog $(date '+%Y-%m-%d %H:%M')" 
-
-git push origin main
-echo "github push completed at $(date)" >> "$LOGFILE"
+# push to repo
+git push origin main >> "$LOGFILE" 
+echo "github push completed at $(date) " >> "$LOGFILE"
+echo "-------------------------------- " >> "$LOGFILE"

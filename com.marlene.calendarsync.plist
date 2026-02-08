@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.marlene.calendarsync</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/marlene/CalendarSync/run_main.sh</string>
+    </array>
+
+    <!-- Schedule -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key>
+            <integer>10</integer>
+            <key>Minute</key>
+            <integer>38</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>14</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key>
+            <integer>19</integer>
+            <key>Minute</key>
+            <integer>56</integer>
+        </dict>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>/Users/marlene/CalendarSync/run.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/marlene/CalendarSync/run.err</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/marlene/CalendarSync</string>
+</dict>
+</plist>
